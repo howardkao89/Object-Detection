@@ -1,0 +1,7 @@
+__MACOSX/
+__pycache__/
+hw1_dataset/
+logs
+*.pth
+hw1_dataset.zip
+hw1_r12922127.docx
